@@ -1,0 +1,3 @@
+def sinatraapp
+  puts "hello world"
+end
